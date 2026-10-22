@@ -1,0 +1,4 @@
+interface:
+  display_name: "pdd主图修改"
+  short_description: "以原始实拍替换拼多多主图产品，支持保留原文案或同步修改文字与卖点"
+  default_prompt: "使用 $pdd-main-image-edit 修改这批拼多多主图，先确认只改产品还是产品和文字一起改。"

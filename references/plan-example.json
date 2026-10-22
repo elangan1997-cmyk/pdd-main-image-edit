@@ -1,0 +1,44 @@
+{
+  "mode": "product-only",
+  "sample_approved": false,
+  "profile": "low",
+  "items": [
+    {
+      "id": "P01",
+      "template": "../examples/case-a/original.jpg",
+      "product": "../examples/case-a/product.jpg",
+      "original_copy": [
+        "好滤材",
+        "不浑水",
+        "多合一",
+        "净水·培菌",
+        "精选"
+      ],
+      "target_copy": [
+        "好滤材",
+        "不浑水",
+        "多合一",
+        "净水·培菌",
+        "精选"
+      ],
+      "layout": [
+        "黑色背景",
+        "顶部红白与黄黑标题",
+        "底部黄红横条",
+        "右下竖排精选"
+      ],
+      "anchors": [
+        "左上灰环",
+        "上方黄环",
+        "中部并排灰柱",
+        "右侧浅色球",
+        "矮方玻璃盒"
+      ],
+      "product_lock": "保留整组实拍产品、容器、原视角与排列",
+      "product_priority_confirmed": true,
+      "copy_confirmed": true,
+      "copy_fact_status": "原文沿用，功能规格未核验",
+      "output_file": "P01.png"
+    }
+  ]
+}
